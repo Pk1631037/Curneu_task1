@@ -1,0 +1,271 @@
+::selection {
+    background: #f36e21;
+    color: #fbfbff
+}
+
+.orange {
+    color: #f36e21
+}
+
+.bg-orange {
+    background: #f36e21
+}
+
+.logo-color {
+    color: #3c3c3b
+}
+
+.testimonials {
+    color: #3c3c3b
+}
+
+body {
+    font-family: Montserrat, sans-serif
+}
+
+header {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .5)), url(../img/home-banner.jpg) no-repeat center center/cover
+}
+
+.nav-menu {
+    background: linear-gradient(rgba(243, 110, 33, .4), rgba(243, 110, 33, .5));
+    padding: 30px;
+    transition: all .7s;
+    box-shadow: 2px 2px 5px linear-gradient(rgba(243, 110, 33, .4), rgba(243, 110, 33, .5))
+}
+
+.menu-item {
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #eee;
+    transition: color .5s
+}
+
+.nav-active {
+    color: #70aed2
+}
+
+.menu-item:hover {
+    color: #000
+}
+
+.line-1,
+.line-2,
+.line-3 {
+    width: 23px;
+    height: 3px;
+    margin: 5px;
+    transition: all .4s
+}
+
+.change .line-2 {
+    opacity: 0
+}
+
+.change .line-1 {
+    transform: rotate(-45deg) translate(-5px, 6px)
+}
+
+.change .line-3 {
+    transform: rotate(45deg) translate(-5px, -6px)
+}
+
+.custom-nav {
+    padding: 5px 30px;
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .7))
+}
+
+.banner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%
+}
+
+.banner-heading {
+    animation-name: anim;
+    animation-duration: 2s
+}
+
+.banner-par {
+    animation-name: anim;
+    animation-duration: 2s;
+    animation-delay: .5s;
+    animation-fill-mode: backwards
+}
+
+#location {
+    background: #fdc830;
+    background: -webkit-linear-gradient(to right, #f37335, #fdc830);
+    background: linear-gradient(to right, #f37335, #fdc830)
+}
+
+.underline {
+    width: 150px;
+    border: 3px solid #fff;
+    margin: 0 auto
+}
+
+.fromLeft {
+    animation-name: fromLeft;
+    animation-duration: 3s
+}
+
+.fromRight {
+    animation-name: fromRight;
+    animation-duration: 2.5s
+}
+
+.parallax {
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .5)), url(../img/menu1.jpg);
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.menu-img {
+    transition: all 2s
+}
+
+.menu-txt {
+    transition: all 2s
+}
+
+.menu-list-item {
+    color: #f36e21;
+    cursor: pointer;
+    user-select: none
+}
+
+.active-item {
+    color: #fff222
+}
+
+#whyus {
+    background: #fdc830;
+    background: -webkit-linear-gradient(to right, #f37335, #fdc830);
+    background: linear-gradient(to right, #f37335, #fdc830)
+}
+
+.parallax01 {
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .5)), url(../img/parallax01.jpg);
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.contact {
+    background: linear-gradient(105deg, rgba(21, 31, 32, 1) 0, rgba(21, 31, 32, .95) 50%, transparent 50%), url(../img/contact1.jpg) center center/cover no-repeat
+}
+
+.input {
+    background: 0 0;
+    border-color: transparent;
+    border-bottom: 2px solid #ccc;
+    border-radius: 0;
+    transition: all .8s
+}
+
+.input:focus {
+    background: 0 0;
+    border-color: transparent;
+    box-shadow: none;
+    color: #fff;
+    border-bottom: 2px solid #f36e21
+}
+
+.submit-btn {
+    background: #f36e21;
+    color: #eee;
+    transition: all .3s
+}
+
+.submit-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 3px 3px 3px #3c3c3b
+}
+
+.label {
+    color: #777;
+    display: block;
+    margin-top: -70px;
+    margin-left: 4px;
+    font-size: 13px;
+    transition: all .3s
+}
+
+.input:placeholder-shown+.label {
+    transform: translate(20px, 20px);
+    opacity: 0;
+    visibility: hidden
+}
+
+.footer {
+    color: #f36e21
+}
+
+#topbtn {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    font-size: 22px;
+    width: 50px;
+    height: 50px;
+    background: #f36e21;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer
+}
+
+#topbtn:hover {
+    background: #3c3c3b
+}
+
+@media screen and (device-width:360px) and (device-height:640px) and (-webkit-device-pixel-ratio:3) {
+    .parallax {
+        height: 800px
+    }
+    .parallax01 {
+        height: 400px
+    }
+}
+
+@keyframes anim {
+    0% {
+        transform: translateX(-100px);
+        opacity: 0
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1
+    }
+}
+
+@keyframes fromLeft {
+    0% {
+        transform: translateX(-120px);
+        opacity: 0
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1
+    }
+}
+
+@keyframes fromRight {
+    0% {
+        transform: translateX(30px);
+        opacity: 0
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1
+    }
+}
