@@ -1,0 +1,255 @@
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    height: 100%;
+    overflow-y: scroll;
+    background-color: #0b607a;
+}
+
+.arvoFont {
+    font-family: 'Arvo', serif;
+    font-size: 18px;
+}
+
+.comfortaa {
+    font-family: 'Comfortaa', cursive;
+}
+
+.div-class {
+    height: 500px;
+    background-color: beige;
+}
+
+.navbar {
+    background-color: white !important;
+}
+
+.nav a {
+    color: #0b607a;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+#header ul li a:hover {
+    color: black;
+}
+
+#aboutUs {
+    margin-top: 200px;
+}
+
+.about-us {
+    margin-bottom: 100px;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+.about-us h1{
+    font-family: 'Gloria Hallelujah', serif;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.about-us p {
+    font-family: 'Comfortaa', serif;
+    align-content: center;
+    margin-top: 40px;
+    font-size: 22px;
+}
+
+.paral {
+    min-height: 600px;
+    max-height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin-bottom: 100px;
+}
+ 
+
+.paral p {
+    font-size: 1.5vw;
+    color:white;
+    text-align: center;
+    line-height: 60px;
+}
+
+.paral h3 {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 60px;
+    text-align: center;
+    padding-top: 60px;
+    line-height: 100px;
+}
+.jumbotron{margin-bottom: 0;}
+
+#juiceImages {
+    margin-top: 120px;
+    margin-bottom: 150px;
+}
+
+.spacing {
+    margin: 15px;
+}
+
+.spacing:hover {
+    transform: scale(1.1);
+}
+
+
+.row {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+
+#menu {
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+#menu h1 {
+   
+    background-color: white;
+    font-size: 120px;
+    font-family: 'Righteous', serif;
+    color: BLACK;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+.menu-h2 {
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Arvo', serif;
+}
+
+.menu-p {
+    font-family: 'Volkhov', serif;
+    font-size: 20px;
+    color: white;
+}
+
+.menu-h3 {
+    font-family: 'Gloria Hallelujah';
+    font-size: 2.5em;
+    color: white;
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.card-text {
+    font-family: 'Comfortaa'
+}
+
+.customerContainer {
+    padding-top: 100px;
+      background-color: white;
+}
+
+#car {
+    margin-bottom: 100px;
+}
+
+#car h2 {
+    background-color: #F7C064;
+    font-size: 70px;
+    font-family: 'Righteous', serif;
+    color: BLACK;
+    text-align: center;
+}
+
+
+#contact {
+    margin-bottom: 100px;
+}
+
+#contact .container {
+    background-color: white;
+}
+
+.contact-h2 {
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: white;
+    color: black;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+}
+
+#contact .container {
+    background-color: white;
+    padding: 30px;
+}
+
+label, input {
+    font-size: 30px;
+    font-family: 'Cuprum', serif;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+#footer ul li a:hover {
+    transform: scale(1.2);
+}
+
+
+@media screen and (max-width: 767px) {
+    .jumbotron > h3{
+        font-size: 2.5em;
+    }
+    .jumbotron > p {
+        font-size: 1.2em;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .jumbotron > h3{
+        font-size: 2.5em;
+    }
+    .jumbotron > p {
+        font-size: 1.2em;
+    }
+}
+
+
+@media screen and (min-width: 992px) {
+    .jumbotron > h3{
+        font-size: 2.5em;
+    }
+    .jumbotron > p {
+        font-size: 1.2em;
+    }
+}
+
+
+@media screen and (min-width: 1200px) {
+    .jumbotron > h3{
+        font-size: 5em;
+    }
+    .jumbotron > p {
+        font-size: 2em;
+    }
+}
