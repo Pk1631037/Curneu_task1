@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.arvoFont {
+    font-family: 'Arvo', serif;
+    font-size: 18px;
+}
+
+.comfortaa {
+    font-family: 'Comfortaa', cursive;
+}
+
+.div-class {
+    height: 500px;
+    background-color: beige;
+}
+
+.navbar {
+    background-color: sky blue !important;
+}
+
+.nav a {
+    color: #0b607a;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+#header ul li a:hover {
+    color: black;
+}
+#menu {
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+#menu h1 {
+       background-color: white;
+    font-size: 120px;
+    font-family: 'Righteous', serif;
+    color: BLACK;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+.menu-h2 {
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Arvo', serif;
+}
+
+.menu-p {
+    font-family: 'Volkhov', serif;
+    font-size: 20px;
+    color: white;
+}
+
+.menu-h3 {
+    font-family: 'Gloria Hallelujah';
+    font-size: 2.5em;
+    color: white;
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.card-text {
+    font-family: 'Comfortaa'
+}
+
+.customerContainer {
+    padding-top: 100px;
+    background-color: white;
+}
+
+#car {
+    margin-bottom: 100px;
+}
+
+#car h2 {
+    background-color: #F7C064;
+    font-size: 70px;
+    font-family: 'Righteous', serif;
+    color: BLACK;
+    text-align: center;
+}
+
+
+#contact {
+    margin-bottom: 100px;
+}
+
+#contact .container {
+    background-color: white;
+}
+
+.contact-h2 {
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: white;
+    color: black;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+}
+
+#contact .container {
+    background-color: white;
+    padding: 30px;
+}
+
+label, input {
+    font-size: 30px;
+    font-family: 'Cuprum', serif;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+#footer ul li a:hover {
+    transform: scale(1.2);
+}
