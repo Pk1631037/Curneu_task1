@@ -1,15 +1,24 @@
 # Curneu_task1
 
-Question Description of Task:
-1. Design a front end of a health record system for Android, iOS and Web application
-2. Design and modify an existing website into a creative and interactive website.
-3. Freehand task: Use tools such as photoshop, illustrator etc and come up with creative art work.
+UI/UX Designing:
 
-Hosted Link 1: Task1 (https://curneutask1.000webhostapp.com/task1)
+Task 1:
+Designed a front end of health record sytem that is responsive for android, ios,web application
+using html,css,scss,jquery,Bootstrap,javascript,php
 
-Hosted Link 2: Task2 (https://curneutask1.000webhostapp.com/task2)
+Task2:
+Designed and modified an existing safar meterological website into creative and interactive.
+using html,css,scss,jquery,Bootstrap,javascript.
 
-Video Link:
+Task3:
+Created a art work in Photoshop using theame Smile and Helping hand
+
+Hosted Link :
+Task1 (https://curneutask1.000webhostapp.com/task1)
+
+Task2 (https://curneutask1.000webhostapp.com/task2)
+
+Video Presentation Link:
 https://drive.google.com/open?id=1UrgCP8Xjf7iu61itXEvfr5KROlvWE_U-
 
 Project Zip file Link:
