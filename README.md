@@ -8,7 +8,7 @@ using Html, Css, jquery, Bootstrap, javascript, Php
 
 Task2:
 Designed and modified an existing https://www.curneu.com/ website into creative and interactive.
-using Html, Css, jquery, Bootstrap, javascript, Php
+using Html, Css, jquery, Bootstrap, javascript, Php, News API, EmailJS
 
 Task3:
 Created a art work in Photoshop using Curneu Medical Template which in use of Medicines.
