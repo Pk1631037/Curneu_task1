@@ -10,7 +10,7 @@ Hosted Link 1: Task1 (https://curneutask1.000webhostapp.com/task1)
 Hosted Link 2: Task2 (https://curneutask1.000webhostapp.com/task2)
 
 Video Link:
-https://drive.google.com/open?id=1UrgCP8Xjf7iu61itXEvfr5KROlvWE_U
+https://drive.google.com/drive/u/0/folders/1UrgCP8Xjf7iu61itXEvfr5KROlvWE_U-
 
 Project Zip file Link:
 https://drive.google.com/open?id=1cF6Ra4_b3dKC7lVOt7CgUgEDKYFZ9YfT
