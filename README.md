@@ -7,7 +7,7 @@ Designed a front end of health record sytem that is responsive for android, ios,
 using Html, Css, jquery, Bootstrap, javascript, Php
 
 Task2:
-Designed and modified an existing safar meterological website into creative and interactive.
+Designed and modified an existing https://www.curneu.com/ website into creative and interactive.
 using Html, Css, jquery, Bootstrap, javascript, Php
 
 Task3:
