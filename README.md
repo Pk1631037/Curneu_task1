@@ -4,7 +4,7 @@ UI/UX Designing:
 
 Task 1:
 Designed a front end of health record sytem that is responsive for android, ios,web application
-using html,css,scss,jquery,Bootstrap,javascript,php
+using Html, Css, jquery, Bootstrap, javascript, Php
 
 Task2:
 Designed and modified an existing safar meterological website into creative and interactive.
