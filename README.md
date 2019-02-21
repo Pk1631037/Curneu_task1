@@ -8,7 +8,7 @@ using Html, Css, jquery, Bootstrap, javascript, Php
 
 Task2:
 Designed and modified an existing safar meterological website into creative and interactive.
-using html,css,scss,jquery,Bootstrap,javascript.
+using Html, Css, jquery, Bootstrap, javascript, Php
 
 Task3:
 Created a art work in Photoshop using theame Smile and Helping hand
