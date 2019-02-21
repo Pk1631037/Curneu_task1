@@ -11,7 +11,7 @@ Designed and modified an existing safar meterological website into creative and 
 using Html, Css, jquery, Bootstrap, javascript, Php
 
 Task3:
-Created a art work in Photoshop using theame Smile and Helping hand
+Created a art work in Photoshop using Curneu Medical Template which in use of Medicines.
 
 Hosted Websited Link :
 
