@@ -13,15 +13,18 @@ using html,css,scss,jquery,Bootstrap,javascript.
 Task3:
 Created a art work in Photoshop using theame Smile and Helping hand
 
-Hosted Link :
-Task1 (https://curneutask1.000webhostapp.com/task1)
+Hosted Websited Link :
 
-Task2 (https://curneutask1.000webhostapp.com/task2)
+Task1 : https://curneutask1.000webhostapp.com/task1
+
+Task2 : https://curneutask1.000webhostapp.com/task2
 
 Video Presentation Link:
+
 https://drive.google.com/open?id=1UrgCP8Xjf7iu61itXEvfr5KROlvWE_U-
 
 Project Zip file Link:
+
 https://drive.google.com/open?id=1cF6Ra4_b3dKC7lVOt7CgUgEDKYFZ9YfT
 
 
